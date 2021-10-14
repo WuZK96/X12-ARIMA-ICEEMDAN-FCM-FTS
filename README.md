@@ -12,7 +12,7 @@ Installation
 =======
 1.EVIEWS 
 ---
-A software software for implementing X12-ARIMA. Of course, you can also implement X12-ARIMA with other software.
+A software for implementing X12-ARIMA. Of course, you can also implement X12-ARIMA with other software.
 Download link: http://www.eviews.com/home.html
 
 2.PyEMD
