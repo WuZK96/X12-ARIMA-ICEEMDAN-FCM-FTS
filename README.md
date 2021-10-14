@@ -4,7 +4,7 @@ Introduction
 =======
 This is a python implementation of a hybrid model X12-ARIMA-ICEEMDAN-FCM-FTS, which consists of dual decomposition and an improved fuzzy time series method.
 
-Mtehods
+Methods
 =======
 The main methods involved and the overall framework of the developed hybrid forecasting model are X12-ARIMA (a popular seasonal adjustment method developed by the United States Census Bureau), ICEEMDAN (an improved complete ensemble empirical mode decomposition with adaptive noise ), FCM(the fuzzy C-means algorithm) and FTS( the fuzzy time series algorithm).
 
